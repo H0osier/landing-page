@@ -56,9 +56,6 @@ li a {
   background-color: #1f2937;
 }
 
-
-
-
 .hero-box {
   display: flex;
   max-width: 45ch;
@@ -86,7 +83,50 @@ li a {
   margin-top: 1ch;
 }
 
+/*Section 2*/
 
+.section2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.info {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.box-row{
+  display: flex;
+  width: 80%;
+ 
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+.s2box {
+  border-radius: 25px;
+  border: 2px solid #3882f6;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  
+
+}
+
+.box-msg{
+display: flex;
+flex-direction: column;
+
+}
+
+.box-text{
+max-width: 200px;
+}
 
 /*
 .navbar,
