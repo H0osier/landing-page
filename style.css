@@ -155,3 +155,46 @@ max-width: 200px;
   align-self: flex-end;
   max-width: 45ch;
 }
+
+/*section 4*/
+
+.section4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-box{ 
+  background-color: #3882f6;
+  display: flex;
+  color: #f9faf8;
+  padding: 25px;
+
+  justify-content: space-evenly;
+  align-items: center;
+  
+  width: 80%
+;
+}
+
+.action-text-main, .action-text-sub {
+  margin: auto;
+}
+
+.action-text-main {
+  font-size: 24px;
+}
+
+.action-text-sub {
+  font-size: 18px;
+}
+
+.bottom-button{
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: #f9faf8 solid;
+  align-self: center;
+  border-radius: 10px;
+  width: 100px;
+
+}
