@@ -19,7 +19,7 @@ header{
   justify-content: center;
   align-items: center;
   background-color: #1f2937;
-  height: 3.5%;
+
 }
 
 .navbar {
@@ -210,5 +210,5 @@ footer {
   font-size: 12px;
   color: #e5e7eb;
   padding: 5px;
-  height: 3.5%;
+  
 }
